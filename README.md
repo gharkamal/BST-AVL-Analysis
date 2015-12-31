@@ -1,7 +1,7 @@
 # BST-AVL-Analysis
 
   This project is an analysis of the effiency both AVL and BST can provide. 
-  The project could be ran using either eclipse or terminal. 
+  The project could be run using either eclipse or terminal via the tester class. 
   The tester classes will be able to provide detailed discription on the search effiency. 
  
   For the BST and AVL, we tested the insertion method by setting n = 1000, 10000, 100000, 1000000.  Once we set timers in the code
@@ -11,8 +11,6 @@
   a node if it is not. 
 
 
- 
- 
 
 Looking at both charts for the BST and AVL insertion and removal. We were able to see that the AVL tree took an approximately 
 O (n^2) compared to the BST which took about O (n). This shows efficiency difference between the two, as AVL required more time 
